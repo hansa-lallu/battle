@@ -1,4 +1,4 @@
-## Battle Challenge ##
+# Battle Challenge 
 
 ## Description ## 
 
